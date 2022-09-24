@@ -19,7 +19,7 @@ module.exports = () => {
       // webpack plugin to generate HTML
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'JATE Webpack Plugin',
+        title: 'Just Another Text Editor',
       }),
       // service worker
       new InjectManifest({
