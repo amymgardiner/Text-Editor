@@ -24,4 +24,6 @@ The following image shows the apllication's caching strategies:
 
 ## Deployed Link
 
-[Heroku Link](https://stark-depths-39479.herokuapp.com/)
+[Render Link](https://text-editor-gs60.onrender.com/)
+
+**Update: Due to the removal of Heroku's free product plans, I have found another free hosting platform that was not taught in the bootcamp. The [Heroku link](https://stark-depths-39479.herokuapp.com/) for this site no longer works. Please view this site with the new Render link above. Thanks!**
