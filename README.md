@@ -2,6 +2,8 @@
 
 Module 19 Challenge - Progressive Web Applications (PWA)
 
+**Update: Due to the removal of Heroku's free product plans, I have found another free hosting platform that was not taught in the bootcamp. The [Heroku link](https://stark-depths-39479.herokuapp.com/) for this site no longer works. Please view this site with the new Render link below. Thanks!**
+
 ## Example of App
 
 The following images show the application's manifest.json file:
@@ -24,6 +26,6 @@ The following image shows the apllication's caching strategies:
 
 ## Deployed Link
 
-[Render Link](https://text-editor-gs60.onrender.com/)
+`Note: I use Render now for hosting my school projects, on their free plan. A free plan will spin down after 15 minutes of inactivity, and the next request will spin it back up, which can take awhile. So please be patient as the site may take some time to initially load due to Render restrictions.`
 
-**Update: Due to the removal of Heroku's free product plans, I have found another free hosting platform that was not taught in the bootcamp. The [Heroku link](https://stark-depths-39479.herokuapp.com/) for this site no longer works. Please view this site with the new Render link above. Thanks!**
+[Render Link](https://text-editor-gs60.onrender.com/)
